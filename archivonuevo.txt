@@ -7,3 +7,4 @@ este cambio es para verlo con el diff
 
 este es un cambio en la rama desarrollo hola estoy en desarrollo
 
+este cambio es para demostrar el stash
