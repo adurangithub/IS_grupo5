@@ -5,5 +5,5 @@ esta es la primera modificación en la rama master sin conflicto
 
 este cambio es para verlo con el diff
 
-este es un cambio en la rama desarrollo aqui puede haber conflicto
+este es un cambio en la rama desarrollo hola estoy en desarrollo
 
